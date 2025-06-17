@@ -5,6 +5,7 @@ Trabajo práctico 5 de la cursada de Administración de Sistemas de Información
 Backend:
 + Python (Django)
 + Base de datos: PosgreSQL
+
 Frontend:
 + JavaScript (React)
 
